@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estudar TypeScript",
+        "concluida": false
+    },
+    {
+        "id": 2,
+        "titulo": "Praticar arquivos JSON",
+        "concluida": false
+    },
+    {
+        "id": 3,
+        "titulo": "Revisar async await",
+        "concluida": true
+    }
+]
