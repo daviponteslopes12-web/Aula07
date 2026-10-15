@@ -1,0 +1,1 @@
+Conteúdo de teste que será lido pelo TypeScript de forma assíncrona.
